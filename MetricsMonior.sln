@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetricsMonior", "MetricsMonior\MetricsMonior.csproj", "{1500B96A-AD55-4410-839A-7B9A30F8232E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientMonitor", "ClientMonitor\ClientMonitor.csproj", "{5B903AE4-4563-4B8B-A75B-B2750B8D9012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1500B96A-AD55-4410-839A-7B9A30F8232E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1500B96A-AD55-4410-839A-7B9A30F8232E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1500B96A-AD55-4410-839A-7B9A30F8232E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1500B96A-AD55-4410-839A-7B9A30F8232E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B903AE4-4563-4B8B-A75B-B2750B8D9012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B903AE4-4563-4B8B-A75B-B2750B8D9012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B903AE4-4563-4B8B-A75B-B2750B8D9012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B903AE4-4563-4B8B-A75B-B2750B8D9012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83F33608-9142-4689-80EC-78289B96ABE2}
+	EndGlobalSection
+EndGlobal
